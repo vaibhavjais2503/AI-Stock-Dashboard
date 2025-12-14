@@ -67,7 +67,7 @@ An enterprise-grade stock market analysis dashboard that combines real-time fina
 
 ---
 
-## 🚀 Local Installation & Setup (Copy-Paste)
+## 🚀 Local Installation & Setup 
 
 ```bash
 # 1) Clone the repository
